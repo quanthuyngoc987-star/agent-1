@@ -1,0 +1,7 @@
+﻿__pycache__/
+.idea/
+logs/
+chroma_db/
+*.pyc
+.DS_Store
+Thumbs.db
